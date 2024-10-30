@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+.horoskop-row{width:250px; min-height:280px; float:left; margin:20px; padding:0 0 5px 0;  font-size:11px; overflow:hidden;
+border-radius:6px; 
+-moz-border-radius:6px; 
+-webkit-border-radius:6px; 
+box-shadow: 0px 0px 10px #333; 
+-moz-box-shadow: 0px 0px 10px #333; 
+-webkit-box-shadow: 0px 0px 10px #333;
+}
+.horoskop-row h3 {font-family:arial, serif; font-weight:normal; font-size:15px; line-height:19px; text-transform:capitalize; padding:10px 14px 8px 14px; font-weight:bold; }
+.horoskop-row h4 {font-family:arial, serif; font-weight:normal; font-size:11px; line-height:19px; text-transform:capitalize; padding:5px 10px 5px 10px; font-weight:bold; color:#FFFFFF;} 
+.horoskop-row p {font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:16px; padding:10px 14px 8px 14px;}
+.horoskop-row div {padding:10px 14px 8px 14px;}
+.horoskop-row table {padding:0 5px 10px 0; overflow:hidden;}
+.horoskop-row div.small {padding:10px 14px 8px 14px; line-height:12px;  }
+.horoskop-row ul.children{text-transform:capitalize; font-weight:normal; padding:2px 0 0px 8px;}
+.horoskop-row ul.children li {line-height:13px; padding:0 0 3px 0;}
+.horoskop-row ul {padding:10px 14px; text-transform:uppercase; font-size:11px; font-weight:bold; }
+.horoskop-row ul li {list-style:none; line-height:17px; }
+
+.horoskop-row.white{background:#fff; border:1px solid #fff;  box-shadow: 0 0 5px #333333, 1px 1px 25px #CECECE inset;   }
+.horoskop-row.white h3 {background:url(images/horiz-white.gif) repeat-x bottom left; text-shadow:1px 1px 0 #fff; }

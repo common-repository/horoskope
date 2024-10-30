@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AfiliTxt Horoskop 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-14 22:50+0100\n"
+"PO-Revision-Date: 2012-10-14 22:52+0100\n"
+"Last-Translator: Michael Breunig <info@lokaleangebote.de>\n"
+"Language-Team: Michael Breunig <info@afiliTxt.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: G:\\wamp\\www\\wordpress-aktuell\\wp-content\\plugins\\horoskope\n"
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/horoskope.php:211
+msgid "ALLGEMEIN"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/horoskope.php:220
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/grunddaten.php:4
+msgid "ACCOUNT"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/horoskope.php:239
+msgid "WEBMASTER"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/horoskope.php:268
+msgid "ARTIKEL / SEITEN"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/horoskope.php:287
+msgid "WIDGET"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:144
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:97
+msgid "Fische"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:145
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:97
+msgid "Jungfrau"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:146
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:97
+msgid "Krebs"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:147
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:97
+msgid "L&ouml;we"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:148
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:97
+msgid "Sch&uuml;tze"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:149
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:97
+msgid "Skorpion"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:150
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:97
+msgid "Steinbock"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:151
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:97
+msgid "Stier"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:152
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:97
+msgid "Waage"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:153
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:97
+msgid "Wassermann"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:154
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:97
+msgid "Widder"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:155
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:97
+msgid "Zwilling"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:175
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:180
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:185
+msgid "Liebeshoroskop"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:185
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:213
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:241
+msgid "Horoskop"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:185
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:213
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:241
+msgid "Sternzeichen"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:203
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:208
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:213
+msgid "Partnerhoroskop"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:231
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:236
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/afilitxt-horoskope.class.php:241
+msgid "Tageshoroskop"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:16
+msgid "Mit diesem Widget k&ouml;nnen Sie sich f&uuml;r jeden Tag ein Horoskop anzeigen lassen"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:22
+msgid "Horoskop Widget"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:95
+msgid "Horoskope"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:96
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/webmaster.php:40
+msgid "Liebeshoroskope"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:96
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/webmaster.php:45
+msgid "Partnerhoroskope"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:96
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/webmaster.php:50
+msgid "Tageshoroskope"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:103
+msgid "Titel:"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:109
+msgid "Horoskop:"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:119
+msgid "Sternzeichen:"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/class/class-widget.php:130
+msgid "Icon?"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/allgemein.php:3
+#, php-format
+msgid "%s liefert Dir Horoskoptexte als Seite Widget direkt in deinen Blog."
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/allgemein.php:4
+#, php-format
+msgid "Nachdem Du einen Zugang bei %s beantragt hast, musst Du die einzelnen Horoskoptypen einlesen."
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/allgemein.php:7
+msgid "<strong>Diese Platzhalter kannst Du in eine Seite einbauen. An dieser Stelle werden alle aktuellen Horoskope angezeigt. Weitere Platzhalter und wichtige Hinweise findest Du in der Hilfe!</strong>"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/allgemein.php:8
+msgid "Liebeshoroskope: <strong><span style=\"font-size:1.2em\">[afilitxt_horoskope_liebe]</span></strong>"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/allgemein.php:9
+msgid "Partnerhoroskope: <strong><span style=\"font-size:1.2em\">[afilitxt_horoskope_partner]</span></strong>"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/allgemein.php:10
+msgid "Tageshoroskope: <strong><span style=\"font-size:1.2em\">[afilitxt_horoskope_tag]</span></strong>"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/grunddaten.php:6
+#, php-format
+msgid "Dein Guthaben %s W&ouml;rter &uuml;ber 4 Buchstaben"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/grunddaten.php:13
+msgid "Damit Texte in deinen Blog geladen werden k&ouml;nnen, musst Du ein ein positives Guthaben bei AfiliTxt haben."
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/grunddaten.php:14
+msgid "Du kannst dein Guthaben auf der Seite von <a href=\"http://www.afilitxt.com/webmaster\" target=\"_blank\">AfiliTxt</a> aufladen."
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/grunddaten.php:20
+msgid "IP-Adresse"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/grunddaten.php:21
+msgid "ID"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/grunddaten.php:22
+msgid "Kennwort"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/webmaster.php:4
+msgid "Webmaster"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/webmaster.php:7
+msgid "In dieser Aufklappkarte beantragst Du deinen pers&ouml;nlichen AfiliTxt- Account und kannst die ersten Horoskope f&uuml;r das PlugIn einlesen."
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/webmaster.php:12
+msgid "Einstellungen"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/webmaster.php:17
+msgid "Webmaster-ID"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/webmaster.php:18
+msgid "Sprache"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/webmaster.php:37
+msgid "Solange hier noch ein Button zu sehen ist, m&uuml;ssen noch Horoskope eingelesen werden! Klicke auf einen der Button, um weitere Horoskope einzulesen."
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/webmaster.php:63
+msgid "Account beantragen"
+msgstr ""
+
+#: G:\wamp\www\wordpress-aktuell\wp-content\plugins\horoskope/formular/webmaster.php:65
+msgid "Account l&ouml;schen"
+msgstr ""
+
